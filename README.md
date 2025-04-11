@@ -6,7 +6,7 @@
 
 ---
 
-![divider](https://raw.githubusercontent.com/ronyamorim/ronyamorim/main/assets/wave-dark-bottom.svg)
+<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-templates/main/wave.svg" alt="divider" style="width:100%;" />
 
 ### 🔍 About Me
 
@@ -70,4 +70,4 @@
   <img src="https://komarev.com/ghpvc/?username=RonyAmorim&style=flat-square&color=lightgrey" alt="Profile Views" />
 </p>
 
-![divider](https://raw.githubusercontent.com/ronyamorim/ronyamorim/main/assets/wave-dark-top.svg)
+<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-templates/main/wave.svg" alt="divider" style="width:100%;" />
