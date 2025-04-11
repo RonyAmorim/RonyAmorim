@@ -1,42 +1,44 @@
 <h1 align="center">👋 Hi, I'm Rony Amorim</h1>
 
-<h2>🔍 About Me</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1EF7D9&center=true&vCenter=true&width=435&lines=Junior+Systems+Analyst+%7C+Odoo+Developer;Passionate+about+technology+%26+clean+code;Always+learning+%F0%9F%93%9A+and+building+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-- 💻 I'm a **Junior Systems Analyst** and **Odoo Developer** with a passion for solving real-world problems through technology.
-- 🎓 I hold a degree in **Systems Analysis and Development** and I'm currently pursuing a **Postgraduate Degree in Distributed Systems Architecture**.
-- 🚀 Always curious and driven by innovation, I love exploring new tools, languages, and frameworks.
-- 🔧 Beyond coding, I enjoy working on personal tech projects — especially custom mods for my car, combining creativity with functionality.
+---
 
-<h2>🛠️ Technologies</h2>
+### 🔍 About Me
+
+- 💻 **Junior Systems Analyst** & **Odoo Developer**
+- 🎓 Graduate in **Systems Analysis and Development**
+- 📚 Postgrad in **Distributed Systems Architecture** at PUC Minas
+- 🚀 Enthusiastic about clean code, scalable solutions, and continuous learning
+
+---
+
+### 🛠️ Tech Stack
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,kotlin,c,angular,docker,git,postgres,mysql" height="40" />
 </div>
 
-<h2>📊 Stats</h2>
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RonyAmorim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonyAmorim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=RonyAmorim&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonyAmorim&layout=compact&theme=vue-dark&langs_count=6&hide_border=false" height="150" />
 </div>
 
-<h2>🔗 Connect with Me</h2>
+---
+
+### 🔗 Connect with Me
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ronyamorim/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://www.instagram.com/rony__amorim?igsh=MWlhcmswMDRqeXY5NQ==" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <a href="https://www.instagram.com/rony__amorim" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
   </a>
 </div>
