@@ -6,8 +6,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-templates/main/wave.svg" alt="divider" style="width:100%;" />
-
 ### 🔍 About Me
 
 - 💻 **Junior Systems Analyst** & **Odoo Developer**
@@ -70,4 +68,3 @@
   <img src="https://komarev.com/ghpvc/?username=RonyAmorim&style=flat-square&color=lightgrey" alt="Profile Views" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-templates/main/wave.svg" alt="divider" style="width:100%;" />
