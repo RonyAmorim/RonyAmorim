@@ -40,20 +40,6 @@
 
 ---
 
-### 📘 Certifications
-
-- ✅ Odoo Technical Training – Odoo S.A.
-- 🏗️ Java SE 11 Developer – Oracle *(in progress)*
-
----
-
-### 🌍 Languages
-
-- 🇧🇷 Portuguese – Native
-- 🇺🇸 English – Intermediate/Advanced
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
