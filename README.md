@@ -10,8 +10,17 @@
 
 - 💻 **Junior Systems Analyst** & **Odoo Developer**
 - 🎓 Graduate in **Systems Analysis and Development**
-- 📚 Postgrad in **Distributed Systems Architecture** at PUC Minas
+- 📚 Postgraduate student in **Distributed Systems Architecture** (PUC Minas)
 - 🚀 Enthusiastic about clean code, scalable solutions, and continuous learning
+
+---
+
+### 🧩 Career Highlights
+
+- 🏢 Currently working as a **Junior Systems Analyst**
+- 🧠 Experience in ERP systems, especially with **Odoo**
+- 💼 Past internship as a full-stack developer (2024)
+- 🛠️ Strong background in backend and database development
 
 ---
 
@@ -20,6 +29,28 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,kotlin,c,angular,docker,git,postgres,mysql" height="40" />
 </div>
+
+---
+
+### 📚 Currently Learning
+
+- Advanced PostgreSQL & database optimization
+- Clean Architecture & Microservices
+- CI/CD pipelines with GitHub Actions & Docker
+
+---
+
+### 📘 Certifications
+
+- ✅ Odoo Technical Training – Odoo S.A.
+- 🏗️ Java SE 11 Developer – Oracle *(in progress)*
+
+---
+
+### 🌍 Languages
+
+- 🇧🇷 Portuguese – Native
+- 🇺🇸 English – Intermediate/Advanced
 
 ---
 
@@ -42,3 +73,7 @@
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
   </a>
 </div>
+
+---
+
+<p align="center"><em>✨ Let’s connect and build something amazing together!</em></p>
