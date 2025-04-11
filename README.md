@@ -2,9 +2,10 @@
 
 <h2>🔍 About Me</h2>
 
-- 🌱 I'm a **Java Developer** focused on scalable and secure solutions.
-- 🎓 I'm currently completing my degree in **Systems Analysis and Development**.
-- 💡 Interested in exploring new technologies and developing efficient software.
+- 💻 I'm a **Junior Systems Analyst** and **Odoo Developer** with a passion for solving real-world problems through technology.
+- 🎓 I hold a degree in **Systems Analysis and Development** and I'm currently pursuing a **Postgraduate Degree in Distributed Systems Architecture**.
+- 🚀 Always curious and driven by innovation, I love exploring new tools, languages, and frameworks.
+- 🔧 Beyond coding, I enjoy working on personal tech projects — especially custom mods for my car, combining creativity with functionality.
 
 <h2>🛠️ Technologies</h2>
 
@@ -15,7 +16,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angular logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
@@ -29,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RonyAmorim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-<h2>🔗 Social Media</h2>
+<h2>🔗 Connect with Me</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/ronyamorim/" target="_blank">
