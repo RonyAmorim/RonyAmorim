@@ -1,46 +1,48 @@
 <h1 align="center">👋 Hi, I'm Rony Amorim</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=1EF7D9&center=true&vCenter=true&width=700&lines=Junior+Systems+Analyst+%7C+Odoo+Developer;Passionate+about+technology+%26+clean+code;Always+learning+%F0%9F%93%9A+and+building+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7F1&center=true&vCenter=true&width=900&lines=Junior+Systems+Analyst+%7C+Odoo+Developer;Clean+Code+Enthusiast+%F0%9F%93%96;Always+Learning+%F0%9F%93%9A+and+Building+%F0%9F%9A%80;Back-end+Focused+%7C+Tech+Lover+%F0%9F%92%BB" alt="Typing animation" />
 </p>
 
 ---
 
+![divider](https://raw.githubusercontent.com/ronyamorim/ronyamorim/main/assets/wave-dark-bottom.svg)
+
 ### 🔍 About Me
 
 - 💻 **Junior Systems Analyst** & **Odoo Developer**
-- 🎓 Graduate in **Systems Analysis and Development**
-- 📚 Postgraduate student in **Distributed Systems Architecture** (PUC Minas)
-- 🚀 Enthusiastic about clean code, scalable solutions, and continuous learning
+- 🎓 Degree in **Systems Analysis and Development**
+- 📚 Currently pursuing a **Postgrad in Distributed Systems Architecture** @ PUC Minas
+- 💡 Passionate about writing clean, maintainable, and scalable code
 
 ---
 
-### 🧩 Career Highlights
+### 🏆 Career Highlights
 
-- 🏢 Currently working as a **Junior Systems Analyst**
-- 🧠 Experience in ERP systems, especially with **Odoo**
-- 💼 Past internship as a full-stack developer (2024)
-- 🛠️ Strong background in backend and database development
+- 🏢 Working as a **Junior Systems Analyst**
+- 🔧 Hands-on experience with **Odoo ERP** in real-world applications
+- 👨‍💻 Completed internship as a Full Stack Developer (2024)
+- 🛠️ Strong background in backend systems and relational databases
 
 ---
 
-### 🛠️ Tech Stack
+### 🚀 Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,kotlin,c,angular,docker,git,postgres,mysql" height="40" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,kotlin,c,angular,postgres,mysql,docker,git" height="45" />
 </div>
 
 ---
 
-### 📚 Currently Learning
+### 🌱 Currently Learning
 
-- Advanced PostgreSQL & database optimization
-- Clean Architecture & Microservices
-- CI/CD pipelines with GitHub Actions & Docker
+- ⚙️ PostgreSQL Performance & Optimization
+- 🧱 Clean Architecture & Microservices
+- 🔄 GitHub Actions for CI/CD with Docker
 
 ---
 
-### 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RonyAmorim&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_border=false" height="150" />
@@ -51,15 +53,21 @@
 
 ### 🔗 Connect with Me
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/ronyamorim/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/rony__amorim" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <p align="center"><em>✨ Let’s connect and build something amazing together!</em></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RonyAmorim&style=flat-square&color=lightgrey" alt="Profile Views" />
+</p>
+
+![divider](https://raw.githubusercontent.com/ronyamorim/ronyamorim/main/assets/wave-dark-top.svg)
